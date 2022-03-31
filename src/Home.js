@@ -4,7 +4,7 @@ import { faO, faX } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
 
-export function Game() {
+export function Home() {
   const X = (
     <FontAwesomeIcon icon={faX} size="5x" style={{ color: "tomato" }} />
   );

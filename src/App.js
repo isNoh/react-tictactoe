@@ -2,14 +2,14 @@ import { Switch } from "react-router-dom";
 import { Route } from "react-router-dom";
 import { BrowserRouter } from "react-router-dom";
 import "./App.css";
-import { Game } from "./Game";
+import { Home } from "./Home";
 
 function App() {
   return (
     <BrowserRouter>
       <Switch>
         <Route path={`${process.env.PUBLIC_URL}/`} element={Home}>
-          <Game />
+          <Home />
         </Route>
       </Switch>
     </BrowserRouter>
