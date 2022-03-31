@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/isNoh/react-tictactoe/static/css/main.c4baaef3.css",
-    "main.js": "/isNoh/react-tictactoe/static/js/main.d927d457.js",
-    "static/media/logo.png": "/isNoh/react-tictactoe/static/media/logo.acee6909562978e312c4.png",
-    "index.html": "/isNoh/react-tictactoe/index.html",
-    "main.c4baaef3.css.map": "/isNoh/react-tictactoe/static/css/main.c4baaef3.css.map",
-    "main.d927d457.js.map": "/isNoh/react-tictactoe/static/js/main.d927d457.js.map"
+    "main.css": "/react-tictactoe/static/css/main.c4baaef3.css",
+    "main.js": "/react-tictactoe/static/js/main.f875fbaa.js",
+    "static/media/logo.png": "/react-tictactoe/static/media/logo.acee6909562978e312c4.png",
+    "index.html": "/react-tictactoe/index.html",
+    "main.c4baaef3.css.map": "/react-tictactoe/static/css/main.c4baaef3.css.map",
+    "main.f875fbaa.js.map": "/react-tictactoe/static/js/main.f875fbaa.js.map"
   },
   "entrypoints": [
     "static/css/main.c4baaef3.css",
-    "static/js/main.d927d457.js"
+    "static/js/main.f875fbaa.js"
   ]
 }
