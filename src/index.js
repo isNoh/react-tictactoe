@@ -5,7 +5,7 @@ import App from "./App";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="https://github.com/isNoh/react-tictactoe">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
