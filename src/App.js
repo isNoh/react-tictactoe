@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/">
+        <Route path="/home">
           <Game />
         </Route>
       </Switch>
