@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/home">
+        <Route path={`${process.env.PUBLIC_URL}/`} element={Home}>
           <Game />
         </Route>
       </Switch>
