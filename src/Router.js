@@ -5,7 +5,7 @@ import App from "./App";
 
 export default () => {
   return (
-    <Route exact path="/">
+    <Route exact path={`${process.env.PUBLIC_URL}/`}>
       <App />
     </Route>
   );
